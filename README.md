@@ -1,12 +1,34 @@
-<h1>Hello I'm Narutchai</h1>
-<h3> React Developer junior</h3>
+#Hello I'm Narutchai
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narutchai01&show_icons=true&theme=outrun )](https://github.com/anuraghazra/github-readme-stats)
+## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narutchai01&show_icons=true&theme=outrun&hide=jupyter%20notebook,html,tex,css )](https://github.com/anuraghazra/github-readme-stats)
+- 👋 Hi, I’m @Narutchai Mauensaen
+- 👀 I’m interested in Web Developer and Image Processing
+- 🌱 I’m currently learning Web Developer
+- 🏫 I'm studying at King Mongkut's University of Technology Thonburi
+
+## My skill
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,express,mongodb,react" />
+  </a>
+</p>
 
 
+## My Github Stats
 
- [![My Skills ](https://skillicons.dev/icons?i=react,js,ts,html,css,git,py,nodejs,figma)](https://skillicons.dev)
-## GET in touch
-[instargram](https://www.instagram.com/naruaichai.jsx/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narutchai01&show_icons=true&theme=outrun " />
+</p>
+
+## My Top Language
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narutchai01&show_icons=true&theme=outrun&hide=jupyter%20notebook,html,tex,css " />
+</p>
+
+
+## Contact me
+
+ <img src="https://skillicons.dev/icons?i=instagram" />

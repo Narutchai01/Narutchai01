@@ -33,4 +33,14 @@
 
 ## Contact me
 
- <img src="https://skillicons.dev/icons?i=instagram" />
+<p align="center">
+    <a href="https://www.facebook.com/narutchai.mauensaen/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/narutchai_mauensaen/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/narutchai-mauensaen-0b1b1b1b1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>

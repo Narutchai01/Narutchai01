@@ -15,19 +15,21 @@
   </a>
 </p>
 
-
 ## My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narutchai01&show_icons=true&theme=outrun " />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Narutchai01&show_icons=true&theme=outrun" />
+    </a>
 </p>
 
 ## My Top Language
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narutchai01&show_icons=true&theme=outrun&hide=jupyter%20notebook,html,tex,css " />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narutchai01&show_icons=true&theme=outrun&hide=jupyter%20notebook,html,tex,css" />
+    </a>
 </p>
-
 
 ## Contact me
 

@@ -42,3 +42,5 @@
     </a>
 
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Narutchai01&label=Profile%20Views&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in)

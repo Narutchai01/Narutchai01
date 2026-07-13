@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Narutchai Mauensaen
 - 👀 I’m interested in Web Developer and Image Processing
 - 🌱 I’m currently learning Web Development 
-- 🏫 I'm studying at King Mongkut's University of Technology Thonburi
+- 🏫 I graduated at King Mongkut's University of Technology Thonburi
 
 ## My skill
 

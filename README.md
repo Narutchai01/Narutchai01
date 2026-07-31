@@ -3,7 +3,7 @@
 ## About me
 
 - 👋 Hi, I’m @Narutchai Mauensaen
-- 👀 I’m interested in Web Developer and Image Processing
+- 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning Web Development 
 - 🏫 I graduated at King Mongkut's University of Technology Thonburi
 
@@ -15,19 +15,19 @@
   </a>
 </p>
 
-## My Github Stats
+## My GitHub Stats
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Narutchai01&show_icons=true&theme=outrun" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Narutchai01&include_all_commits=true&theme=tokyonight" />
     </a>
 </p>
 
-## My Top Language
+## My Top Languages
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narutchai01&show_icons=true&theme=outrun&hide=jupyter%20notebook,html,tex,css" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Narutchai01&show_icons=true&theme=tokyonight&hide=jupyter%20notebook,html,tex,css" />
     </a>
 </p>
 
